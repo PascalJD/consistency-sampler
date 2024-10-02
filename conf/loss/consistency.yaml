@@ -1,0 +1,3 @@
+# Loss
+_target_: sde_sampler.losses.consistency.ConsistencyDistillation
+method: l2
