@@ -6,8 +6,6 @@ setup(
     python_requires=">=3.9",
     zip_safe=True,
     packages=find_packages(include=["sde_sampler"]),
-    author="Julius Berner",
-    author_email="mail@jberner.info",
     description="Sampling via learned diffusions",
     install_requires=[
         # hydra
